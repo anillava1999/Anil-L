@@ -15,7 +15,7 @@ Portfolio
 * Developed these POC for to get experience real time projects and Created API using Streamlit Framework 
 * Deployed to the Heroku Cloud platform
 
-# [Project 3 : Flight Price Predictions](https://github.com/anillava1999/Flight-Price-Prediction-ML.git)
+# [Project 3 : Flight Price Prediction](https://github.com/anillava1999/Flight-Price-Prediction-ML.git)
 *	Flight Price Prediction created as an AI module and integrated with Web app to predict the price of flight ticket.
 *	Developed these POC the Internship.
 *	Created API using Flask Framework and integrated with Heroku cloud platform.

@@ -20,3 +20,12 @@ Portfolio
 *	Developed these POC the Internship.
 *	Created API using Flask Framework and integrated with Heroku cloud platform.
 
+# [Project 4 : Data Scientiest Salary Prediction]() 
+* Salary Prediction Project created as an AI module integrated with Web app to predict the salary of Data Scientist.
+* Developed these POC to get experience in real time projects.
+* Created API using Streamlit Framework and integrated with Heroku cloud platform.
+
+# [Project 5 : Air Quality Prediction]()
+* Air Quality Prediction project created as an AI module and integrated with Web app to predict the quality of air.
+* Developed these POC to get experience in real-time projects.
+*	Created API using Streamlit Framework and integrated with Heroku cloud platform.

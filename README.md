@@ -30,7 +30,7 @@ Portfolio
 * Developed these POC to get experience in real-time projects.
 *	Created API using Streamlit Framework and integrated with Heroku cloud platform.
 
-## [Project 5 : Bank Note Authentication  Prediction](https://github.com/anillava1999/Bank-Note-Authentication-Prediction.git)
+## [Project 6 : Bank Note Authentication  Prediction](https://github.com/anillava1999/Bank-Note-Authentication-Prediction.git)
 * Bank Note Authentication Prediction project created as an AI module and integrated with Web app to predict Note is Authicated or Not.
 * Developed these POC to get experience in real-time projects.
 *	Created API using Streamlit Framework and integrated with Heroku cloud platform.

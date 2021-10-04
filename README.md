@@ -13,7 +13,7 @@ Portfolio
 
 
 ## [Project 2 : Stock Sentimental Analysis using News Headlines](https://github.com/anillava1999/Stock-Sentimental-Analysis-Classifier.git)
-* Through sentiment analysis, we can take thousands of News about a company and judge whether they are generally positive or negative (the sentiment) in real-time!
+* Through sentiment analysis we can take thousands of News about a company and judge whether they are generally positive or negative (the sentiment) in real-time! with help of Cosine Similarity
 * Stock Sentimental Analysis created as an AI module integrated with web app to predict Stock will go high or not with help of News Headlines
 * Developed these POC for to get experience real time projects and Created API using Streamlit Framework 
 * Deployed to the Heroku Cloud platform
@@ -42,7 +42,8 @@ Portfolio
 * Developed these POC to get experience in real-time projects.
 *	Created API using Streamlit Framework and integrated with Heroku cloud platform.
 
-![Unknown-4](https://user-images.githubusercontent.com/71332138/135903414-6464cde4-7b8a-4982-a6ab-a1a51cddf12c.png) ![sip](https://user-images.githubusercontent.com/71332138/135903418-c289f1b0-7861-4e73-819f-79a480fd0cd4.png)
+![Unknown-4](https://user-images.githubusercontent.com/71332138/135903414-6464cde4-7b8a-4982-a6ab-a1a51cddf12c.png) 
+![sip](https://user-images.githubusercontent.com/71332138/135903418-c289f1b0-7861-4e73-819f-79a480fd0cd4.png)
 
 
 

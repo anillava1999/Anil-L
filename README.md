@@ -1,5 +1,8 @@
 # Anil L
-Portfolio
+Portfolio                                                                                     
+Phone no: 8762687586
+Email: anillava1999@gmail.com
+Linkedin: https://www.linkedin.com/in/anil-l-b023631b6/
 
 ## [Project 1 : Movie Recommendation Engine](https://github.com/anillava1999/Movie-Recommendation-System.git)
 * Contend based Movie recommendation Engine

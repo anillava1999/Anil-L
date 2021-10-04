@@ -18,7 +18,7 @@ Portfolio
 * Developed these POC for to get experience real time projects and Created API using Streamlit Framework 
 * Deployed to the Heroku Cloud platform
 
-![Unknown-4](https://user-images.githubusercontent.com/71332138/135906591-b0c2716a-17ac-4907-a2b3-18b6fd12332e.png)
+![Unknown-4](https://user-images.githubusercontent.com/71332138/135909713-2a15fefa-e9ac-400d-af30-85d928236ab3.png)
 
 
 

@@ -37,7 +37,7 @@ Portfolio
 ![Unknown-4](https://user-images.githubusercontent.com/71332138/135906272-075ddbfa-1880-4c22-b729-4e11901a48eb.png)
 
 
-## [Project 5 : Air Quality Prediction]()
+## [Project 5 : Air Quality Prediction](https://github.com/anillava1999/Air-Quality-Prediction.git)
 * Air Quality Prediction project created as an AI module and integrated with Web app to predict the quality of air.
 * Developed these POC to get experience in real-time projects.
 *	Created API using Streamlit Framework and integrated with Heroku cloud platform.

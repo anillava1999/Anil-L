@@ -64,7 +64,7 @@ Portfolio
 ![Unknown-4](https://user-images.githubusercontent.com/71332138/135902674-aabcbb37-1f0b-4c47-b0c5-cf3fddae7799.png)
 
 
-## [Project 7 : Cotton Plant Disease Prediction](https://github.com/anillava1999/Cotton-Plant-Disease-Prediction.git)
+## [Project 8 : Cotton Plant Disease Prediction](https://github.com/anillava1999/Cotton-Plant-Disease-Prediction.git)
 * Cotton Plant Disease Prediction project created as an AI module with 94 percent Accuracy and integrated with Web app using Flask Framework to predict Plant is Fresh or Disease.
 * Developed these POC to get experience in real-time projects.
 *	Created API using Flask Framework and integrated with AWS cloud platform.

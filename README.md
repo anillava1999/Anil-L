@@ -29,7 +29,7 @@ Portfolio
 
 ![Unknown-4](https://user-images.githubusercontent.com/71332138/135902989-8af61149-0d52-40db-ab75-92dd358783e3.png)
 
-## [Project 4 : Data Scientiest Salary Prediction]() 
+## [Project 4 : Data Scientist Salary Prediction]() 
 * Salary Prediction Project created as an AI module integrated with Web app to predict the salary of Data Scientist.
 * Developed these POC to get experience in real time projects.
 * Created API using Streamlit Framework and integrated with Heroku cloud platform.

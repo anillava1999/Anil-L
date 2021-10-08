@@ -62,3 +62,12 @@ Portfolio
 *	Created API using Streamlit Framework and integrated with Heroku cloud platform.
 
 ![Unknown-4](https://user-images.githubusercontent.com/71332138/135902674-aabcbb37-1f0b-4c47-b0c5-cf3fddae7799.png)
+
+
+## [Project 7 : Cotton-Plant-Disease Prediction](https://github.com/anillava1999/Cotton-Plant-Disease-Prediction.git)
+* Cotton Plant Disease Prediction project created as an AI module with 94 percent Accuracy and integrated with Web app using Flask Framework to predict Plant is Fresh or Disease.
+* Developed these POC to get experience in real-time projects.
+*	Created API using Flask Framework and integrated with AWS cloud platform.
+
+![Unknown-4](https://user-images.githubusercontent.com/71332138/136523794-51dfd092-21f5-42da-8610-5b36df22d2bc.png)
+![Unknown-5](https://user-images.githubusercontent.com/71332138/136523798-e5ef8b84-d36b-4340-bdbb-f95d342efdc3.png)

@@ -56,7 +56,7 @@ Portfolio
 
 ![pic jpg](https://user-images.githubusercontent.com/71332138/135902138-d37c3589-4bb0-4f75-b230-124f0fdfd5c3.png)
 
-## [Project 7 : Rock Vs Mine Prediction]()
+## [Project 7 : Rock Vs Mine Prediction](https://github.com/anillava1999/Rock-Vs-Mine-Prediction.git)
 * Rock Vs Mine Prediction project created as an AI module and integrated with Web app to predict Rock or Mine.
 * Developed these POC to get experience in real-time projects.
 *	Created API using Streamlit Framework and integrated with Heroku cloud platform.

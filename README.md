@@ -71,3 +71,12 @@ Portfolio
 
 ![Unknown-4](https://user-images.githubusercontent.com/71332138/136523794-51dfd092-21f5-42da-8610-5b36df22d2bc.png)
 ![Unknown-5](https://user-images.githubusercontent.com/71332138/136523798-e5ef8b84-d36b-4340-bdbb-f95d342efdc3.png)
+
+## [Project 9 : Diabetes Predictions](https://github.com/anillava1999/Diabetes-Prediction.git)
+* Diabetes Prediction project created as an AI module with 96 percent Accuracy and integrated with Web app using Flask Framework to predict Person who has Daibetes or Not.
+* Developed these POC to get experience in real-time projects.
+*	Created API using Flask Framework and integrated with Azure cloud platform.
+
+![Unknown-4](https://user-images.githubusercontent.com/71332138/136753244-6c096993-dd99-48ad-9d60-0ab2618527df.png)
+
+
